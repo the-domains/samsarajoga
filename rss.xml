@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[samsarajoga]]></title>
-        <description><![CDATA[samsarajoga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Samsára Joga Centrum Košice]]></title>
+        <description><![CDATA[Samsára Joga Centrum Košice]]></description>
+        <link>https://thegrid.ai/samsarajoga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 09:07:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 09:14:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samsarajoga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ashtanga Joga sa rozdeľuje na série a to:]]></title>
+            <description><![CDATA[<article><h1>Ashtanga Joga sa rozdeľuje na série a to:</h1><p>Tim Miller, David Swenson, Richard Freeman, Mark a Joan Darby, Lino Miele a ďaľší, začal príval záujemcov do Mysoru aby sa naučili “nový” typ Jógy. Z týchto prvých nadšencov sa neskôr stali sami učitelia Ashtanga Jógy a šírili tento typ jógy po celom svete. Toľko o koreňoch a vývoji modernej Ashtangy.</p></article>]]></description>
+            <link>https://thegrid.ai/samsarajoga/ashtanga-joga-sa-rozdeuje-na-serie-a-to/index.html</link>
+            <guid isPermaLink="false">21ba91d6-da2a-4e47-b27d-30ae37b794b0</guid>
+            <pubDate>Wed, 04 May 2016 09:13:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[O joge]]></title>
-            <description><![CDATA[<article><h1>O joge</h1><h2>Bol to pokoj v srdci – kľud v hlave – radosť zo žitia!</h2></article>]]></description>
-            <link>undefinedo-joge/index.html</link>
+            <description><![CDATA[<article><h1>O joge</h1><h2>Bol to pokoj v srdci – kľud v hlave – radosť zo žitia!</h2><p>Joga je veľmi stará. Až tak stará, že nik nevie kedy a ako presne vznikla. Vznikla v Indii, na subkontinente kde je teplá klíma, príroda štedrá a životné podmienky na relatívne ľahký život ideálne. To bolo však dávno. V Zlatej dobe, v Satja Juge. Krishnovo potopené mesto pri meste Dvarka, ako aj vykopávky v údolí dnes už vyschnutej rieky Saraswati, to dosvedčujú. Ľudia v tej dobe žili inak. Mali schopnosť sústrediť sa na to čo chceli, ako dlho chceli, bez úsilia, kedykoľvek. Takáto myseľ sa volá Ekagra Čitta. Ale to ešte nie je všetko. Boli vždy prítomní a videli Realitu vždy takú aká je, bez prikrášlenia, bez pričierňovania alebo zveličovania ega. Nežili neustále v strachu, či v nekonečných, neuspokojených túžbach. Hocikedy, keď nepotrebovali svoju myseľ na dennodenné riešenie úloh, ktoré život prirodzene prináša, tak si myseľ “vypli” a tešili sa z toho čo je, teda z reality, zo života. Takáto myseľ sa nazýva Nirodha Čitta. Naviac vedeli, že ich pravá podstata nie je ich vymyslené “Ja” (Ahamkara). ale ich vedomie, duša (Purúsha).</p></article>]]></description>
+            <link>https://thegrid.ai/samsarajoga/o-joge/index.html</link>
             <guid isPermaLink="false">77446f7c-299d-4f28-9df1-6ff991f1b9b2</guid>
             <pubDate>Wed, 04 May 2016 09:06:35 GMT</pubDate>
         </item>
