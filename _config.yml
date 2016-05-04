@@ -1,0 +1,28 @@
+name: samsarajoga
+favicon: null
+layout_spectrum: 0.9338498914148659
+typography_spectrum: 0.2757390688639134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6024379110895097
+  lightness: 0.9293486815877259
+  saturation: 0.1036961346399039
+  rhythmicContrast: 0.6686748266220093
+purpose: []
